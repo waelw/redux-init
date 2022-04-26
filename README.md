@@ -19,3 +19,6 @@ You can't run it by typing in the command palette reducer-init
 
 
 Made by Wael Yosef 🇸🇾
+1. facebook : https://www.facebook.com/wael.yousef.501/
+2. linkedin : https://www.linkedin.com/in/wael-yosef-939b74181
+3. github : https://github.com/waelw/
