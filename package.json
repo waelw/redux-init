@@ -2,7 +2,7 @@
   "name": "redux-init",
 	"displayName": "redux-init",
 	"description": "redux-folder-structure-initiator",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "wael656",
 	"engines": {
 		"vscode": "^1.66.0"
